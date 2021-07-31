@@ -24,3 +24,10 @@ Steps taken towards the development of oyr solution
 - Building and training LSTM model for Prediction.
 - Testing the model with new set of data. 
 - Obtaining the predicitons of prices of 1 crypto currency at a time.
+
+```
+pip install requirements.txt
+```
+```
+streamlit run C:/Users/sites/PycharmProjects/Team-A(hackathon)/home.py
+```
