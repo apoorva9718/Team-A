@@ -3,7 +3,7 @@
 Data is fetched from investing.com using the investpy library
 
 Please use Team A correlation notebook. 
-The Jan-to-tjuly data is stored in a dataframe direclty with no csv files
+The Jan-to-July data is stored in a dataframe direclty with no csv files
 
 These dataframes containing data on Bitcoin, DogeCoin, ETH and USDT is used to understand the correlation.
 
