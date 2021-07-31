@@ -25,6 +25,7 @@ Steps taken towards the development of oyr solution
 - Testing the model with new set of data. 
 - Obtaining the predicitons of prices of 1 crypto currency at a time.
 
+Execute the project with the following Steps:
 ```
 pip install requirements.txt
 ```
